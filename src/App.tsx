@@ -7,6 +7,7 @@ import Services from "./Components/Services";
 import Skills from "./Components/Skills";
 import Projects from "./Components/Projects";
 import Reviews from "./Components/Reviews";
+import Blog from "./Components/Blog";
 
 
 export default function App() {
@@ -27,6 +28,7 @@ export default function App() {
                     <Skills />
                     <Projects />
                     <Reviews />
+                    <Blog />
                 </div>
             </div>
         </div>

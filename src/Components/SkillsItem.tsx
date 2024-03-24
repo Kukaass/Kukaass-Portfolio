@@ -2,13 +2,9 @@
 interface Props {
     title: string;
     year: string;
-    skill1: string;
-    skill2: string;
-    skill3: string;
-    skill4: string;
 }
 
-const SkillsItem = ({title,year,skill1,skill2,skill3,skill4}: Props)  => {
+const SkillsItem = ({title,year}: Props)  => {
     return(
         <div className="mb-[4rem] md:mb-[8rem]">
             <span className="px-[2rem] text-[#55e6a5] py-[0.9rem] font-bold text-[19px] border-[2px] border-[#55e6a5]">
@@ -18,16 +14,7 @@ const SkillsItem = ({title,year,skill1,skill2,skill3,skill4}: Props)  => {
                 {title}
             </h1>
             <p className="text-[#aaaaaa] font-normal w-[80%] text-[17px] opacity-80">
-                {skill1}
-            </p>
-            <p className="text-[#aaaaaa] font-normal w-[80%] text-[17px] opacity-80">
-                {skill2}
-            </p>
-            <p className="text-[#aaaaaa] font-normal w-[80%] text-[17px] opacity-80">
-                {skill3}
-            </p>
-            <p className="text-[#aaaaaa] font-normal w-[80%] text-[17px] opacity-80">
-                {skill4}
+                My skills include proficiency in JavaScript, React JS Node JS, Angular, Next JS, HTML, CSS, and a strong understanding of component-based architecture, state management, and modern web development principles.
             </p>
         </div>
     )

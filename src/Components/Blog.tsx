@@ -46,7 +46,7 @@ const Blog = () => {
                                 <p className="text-white text-[13px] cursor-pointer">Comments(5)</p>
                             </div>
                         </div>
-                        <p className="mt-[1rem] text-white font-semibold text-[18px]">Next Js Fullstack Developer</p>
+                        <p className="mt-[1rem] text-white font-semibold text-[19px]">Next Js Fullstack Developer</p>
                     </div>
                 </div>
                 <div data-aos="fade-left" data-aos-delay="500">

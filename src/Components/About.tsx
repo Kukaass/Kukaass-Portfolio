@@ -22,7 +22,7 @@ const About = () => {
                         <ArrowDownTrayIcon className="w-[1.6rem] h-[1.7rem] text-black"/>
                     </button>
                 </div>
-                <div className="lg:w-[500px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[500px] w-[300px] relative">
+                <div data-aos="fade-left" className="lg:w-[500px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[500px] w-[300px] relative">
                     <img src="/images/about.jpg" alt="user" className="relative z-[11] w-[100%] h-[100%] object-contain"/>
                 </div>
             </div>

@@ -14,7 +14,7 @@ const About = () => {
                     <div className="mb-[3rem] flex items-center md:space-x-10">
                         <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm"></span>
                         <p className="text-[19px] text-slate-300 w-[80%]">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, modi hic culpa doloremque minima, asperiores nulla quisquam in nesciunt nihil sequi amet quibusdam sunt aliquid fugiat. Quisquam voluptatibus quaerat distinctio.
+                            I'm a  software engineer with an entrepreneurial mindset and a passion for creating innovative solutions. I am currently learning and eager to learn many thing in this technology world.
                         </p>
                     </div>
                     <button className="px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black flex items-center space-x-2">

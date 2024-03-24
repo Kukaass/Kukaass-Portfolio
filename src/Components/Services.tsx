@@ -13,8 +13,8 @@ const Services = () => {
                         <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]">
                             Frontend
                         </h1>
-                        <p className="text-[13px] text-[#d3d2d2] font-normal lowercase">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem saepe voluptatem nostrum accusantium officiis cum quas possimus vitae obcaecati vel nesciunt, facere, ipsum error repellendus labore eveniet consectetur sapiente tempore!
+                        <p className="text-[13px] text-[#d3d2d2] font-normal">
+                            Our front-end development services are designed to elevate your online presence by focusing on three key pillars: stunning visual design, seamless user experience, and robust functionality. 
                         </p>
                     </div>
                 </div>
@@ -24,8 +24,8 @@ const Services = () => {
                         <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]">
                             Backend
                         </h1>
-                        <p className="text-[13px] text-[#d3d2d2] font-normal lowercase">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem saepe voluptatem nostrum accusantium officiis cum quas possimus vitae obcaecati vel nesciunt, facere, ipsum error repellendus labore eveniet consectetur sapiente tempore!
+                        <p className="text-[13px] text-[#d3d2d2] font-normal">
+                            Developing server-side logic and functionality using languages like Node JS, PHP Laravel, MySQL, MongoDB, and Javascript to handle requests, process data, and interact with databases.
                         </p>
                     </div>
                 </div>
@@ -35,8 +35,8 @@ const Services = () => {
                         <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]">
                             Fullstack
                         </h1>
-                        <p className="text-[13px] text-[#d3d2d2] font-normal lowercase">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem saepe voluptatem nostrum accusantium officiis cum quas possimus vitae obcaecati vel nesciunt, facere, ipsum error repellendus labore eveniet consectetur sapiente tempore!
+                        <p className="text-[13px] text-[#d3d2d2] font-normal">
+                            Full-stack development using the programming languages including JavaScript frameworks like React and Node.js for frontend and backend development, MongoDB and MySQL for Database.
                         </p>
                     </div>
                 </div>

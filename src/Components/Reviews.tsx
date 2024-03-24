@@ -2,7 +2,7 @@ import ReviewsSlider from "./ReviewsSlider";
 
 const Reviews = () => {
     return(
-        <div className="bg-[#02050a] pt-[4rem] md:pt-[4rem]">
+        <div className="bg-[#09101a] pt-[4rem] md:pt-[4rem]">
             <h1 className="heading">  
                 Client <span className="text-yellow-400">Review</span>
             </h1>

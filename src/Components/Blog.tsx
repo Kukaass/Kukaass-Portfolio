@@ -3,7 +3,7 @@ import { ChatBubbleLeftRightIcon, UserCircleIcon } from "@heroicons/react/20/sol
 const Blog = () => {
     return(
         <div className="bg-[#02050a] pt-[4rem] md:pt-[8rem] pb-[4rem]" id="blog">
-            <h1 className="heading">
+            <h1 className="heading mt-5">
                 My <span className="text-yellow-400">Blog</span>
             </h1>
             <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 mt-[4rem] gap-[3rem] w-[80%] mx-auto">
